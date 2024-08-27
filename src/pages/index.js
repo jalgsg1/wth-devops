@@ -9,7 +9,7 @@ const Index = ({ pets }) => {
   return (
     <>
       {
-        /* display hour component */ 
+        /* Display hour component */ 
         <Hours></Hours> 
       }
 
