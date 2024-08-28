@@ -14,6 +14,13 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
+      <p style={nameStyle}>By José Andrés Lizano Gallegos</p>
     </Html>
   )
 }
+
+const nameStyle = {
+  textAlign: 'center',
+  fontWeight: 'bold',
+  marginBottom: '5px',
+};
