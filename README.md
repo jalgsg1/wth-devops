@@ -1,3 +1,12 @@
+# About this repo
+
+This repo is my solution of this awesome challenge "WTH (What The Hack)" from Código Facilito and Microsoft!
+
+They taught how to use #GithubActions to check vulnerabilities for each Pull Request (or on demand),
+which implies securely use a regular Azure subscription to handle continues secure deployments #CI.
+
+I will keep the original challenge repo description bellow!
+
 # What The Hack - Modern development con DevOps y GitHub
 
 ## ¿Qué es What The Hack?
