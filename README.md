@@ -7,6 +7,7 @@ which implies securely use a regular Azure subscription to handle continues secu
 
 I will keep the original challenge repo description bellow!
 
+
 # What The Hack - Modern development con DevOps y GitHub
 
 ## ¿Qué es What The Hack?
